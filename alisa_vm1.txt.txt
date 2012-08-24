@@ -1,1 +1,2 @@
 alisa vm test1  -by alisa
+test2 --by alisa
