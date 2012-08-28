@@ -1,16 +1,25 @@
-initiate the file  --by linda
+initiate the file  
+--by linda
 
 
 
 Add linde2 --- by linda
 
 
+
 alisa test
 
 Add line4---by linda
 
+
 alisa test again --by alisa
 
+
 Add lind5---by linda
+
 the third test --by alisa
 
+
+
+
+merge the code test ---by alisa
