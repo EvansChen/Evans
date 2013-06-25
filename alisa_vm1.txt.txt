@@ -1,2 +1,4 @@
 alisa vm test1  -by alisa
 test2 --by alisa
+
+alisa test for new vm -by alisa
